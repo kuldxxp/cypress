@@ -8,6 +8,20 @@
       "when": 1738172591949,
       "tag": "0000_greedy_goblin_queen",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1738330157565,
+      "tag": "0001_groovy_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1738332242270,
+      "tag": "0002_watery_spirit",
+      "breakpoints": true
     }
   ]
 }
